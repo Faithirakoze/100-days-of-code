@@ -1,6 +1,6 @@
 import random
 from hangman_art import stages, logo
-from hangman_words import word_list
+from Day_7.hangman_words import word_list
 
 
 lives = 6
