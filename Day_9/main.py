@@ -3,6 +3,9 @@ print(art.logo)
 
 
 def find_highest_bidder(bidding_dictionary):
+    """
+    This function determines the highest bidder from a dictionary of bids.
+    """
     winner = ""
     highest_bid = 0
 
